@@ -8,6 +8,14 @@ IES Campanillas (Málaga)<br/>
 Teacher:<br/>
 Antonio J.Sánchez Bujaldón
 
+# Topics
+- [X] Introduction to **MVC model**
+- [X] Create a new project.
+- [X] Developing a **model** with Eloquent.
+- [X] Database creation: **migrations**, **factories** and **seeders**.
+- [X] **Routing**.
+- [ ] The **controller**.
+
 # Installation
 After clone or download this repository, you'll have to:
 1. Modify **.env** file with configuration options for your server.
