@@ -8,6 +8,11 @@ IES Campanillas (Málaga)<br/>
 Teacher:<br/>
 Antonio J.Sánchez Bujaldón
 
+# Installation
+After clone or download this repository, you'll have to:
+1. Modify **.env** file with configuration options for your server.
+2. Run **composer install** command on system's terminal to generate **vendor** folder.
+3. Run **npm install && npm run dev** to install project's packages.
 
 # Lumen PHP Framework
 
