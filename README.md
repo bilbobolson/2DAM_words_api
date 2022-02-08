@@ -14,7 +14,7 @@ Antonio J.Sánchez Bujaldón
 - [X] Developing a **model** with Eloquent.
 - [X] Database creation: **migrations**, **factories** and **seeders**.
 - [X] **Routing**.
-- [ ] The **controller**.
+- [X] The **controller**.
 
 # Installation
 After clone or download this repository, you'll have to:
