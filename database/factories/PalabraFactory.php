@@ -2,6 +2,12 @@
 
 namespace Database\Factories ;
 
+/**
+ * Antonio José Sánchez Bujaldón
+ * Programación de Aplicaciones Multimedia y de Dispositivos Móviles
+ * curso 2021|22
+ */
+
 use App\Models\Palabra;
 use Illuminate\Database\Eloquent\Factories\Factory;
 

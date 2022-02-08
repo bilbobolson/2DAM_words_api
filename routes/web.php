@@ -1,5 +1,11 @@
 <?php
 
+/**
+ * Antonio José Sánchez Bujaldón
+ * Programación de Aplicaciones Multimedia y de Dispositivos Móviles
+ * curso 2021|22
+ */
+
 /** @var \Laravel\Lumen\Routing\Router $router */
 
 /*
@@ -24,3 +30,5 @@ $router->get('key', function() {
 $router->get('palabra',     ['uses' => 'PalabraController@palabra']) ;
 $router->get('reset',       ['uses' => 'PalabraController@reset']) ;
 $router->get('usada/{id}',  ['uses' => 'PalabraController@usada']) ;
+
+
