@@ -1,11 +1,5 @@
 <?php
 
-/**
- * Antonio José Sánchez Bujaldón
- * Programación de Aplicaciones Multimedia y de Dispositivos Móviles
- * curso 2021|22
- */
-
 namespace App\Models ;
 
 use Illuminate\Database\Eloquent\Model;

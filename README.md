@@ -1,27 +1,3 @@
-# Words API
-API for an Android App Game<br/>
-Multimedia and mobile devices programming<br/>
-Services and proccess programming<br/>
-IES Campanillas (Málaga)<br/>
-2021/22<br/>
-
-Teacher:<br/>
-Antonio J.Sánchez Bujaldón
-
-# Topics
-- [X] Introduction to **MVC model**
-- [X] Create a new project.
-- [X] Developing a **model** with Eloquent.
-- [X] Database creation: **migrations**, **factories** and **seeders**.
-- [X] **Routing**.
-- [ ] The **controller**.
-
-# Installation
-After clone or download this repository, you'll have to:
-1. Modify **.env** file with configuration options for your server.
-2. Run **composer install** command on system's terminal to generate **vendor** folder.
-3. Run **npm install && npm run dev** to install project's packages.
-
 # Lumen PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
@@ -35,3 +11,14 @@ Laravel Lumen is a stunningly fast PHP micro-framework for building web applicat
 
 Documentation for the framework can be found on the [Lumen website](https://lumen.laravel.com/docs).
 
+## Contributing
+
+Thank you for considering contributing to Lumen! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+
+## Security Vulnerabilities
+
+If you discover a security vulnerability within Lumen, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
+
+## License
+
+The Lumen framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
